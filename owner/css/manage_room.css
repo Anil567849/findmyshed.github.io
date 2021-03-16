@@ -1,0 +1,28 @@
+
+/* BODY  */
+
+body{
+    background-color: #f0f2f5;
+  }
+
+  /* HEADING  */
+  .heading{
+    margin-top: 5vh;
+  }
+
+
+  
+  @media only screen and (max-width: 950px) {
+      .card{
+          min-width: 75vw;
+  
+      }
+    }
+    @media only screen and (max-width: 750px) {
+      .card{
+          min-width: 95vw;
+  
+      }
+          
+      }
+    }

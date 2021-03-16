@@ -1,0 +1,39 @@
+
+/* BODY  */
+
+body{
+  background-color: #f0f2f5;
+}
+
+
+@media only screen and (max-width: 1200px) {
+    .room_list_card{
+        min-width: 65vw;
+    }
+  }
+
+@media only screen and (max-width: 990px) {
+    .nav_media_query{
+        text-align: end;
+    }
+  }
+@media only screen and (max-width: 925px) {
+    .room_list_card{
+        min-width: 75vw;
+    }
+  }
+
+@media only screen and (max-width: 768px) {
+    .room_list_card{
+        min-width: 85vw;
+    }
+  }
+@media only screen and (max-width: 651px) {
+    .card{
+        min-width: 85vw;
+    }
+  }
+
+@media only screen and (max-width: 575px) {
+
+  }

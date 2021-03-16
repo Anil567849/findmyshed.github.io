@@ -1,0 +1,19 @@
+body{
+    background-color: #f0f2f5;
+    overflow-y: hidden;
+  }
+
+  .container{
+    height: 70vh;
+    width: 70vw;
+    margin-top: 10vh;
+}
+
+.center_div{
+    margin-top: 30vh;x
+}
+
+.main-div{
+    width: 100vw;
+    height: 100vh;
+}

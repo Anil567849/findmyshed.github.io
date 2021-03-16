@@ -1,0 +1,51 @@
+
+/* BODY  */
+
+body{
+  background-color: #f0f2f5;
+}
+
+/* FORM  */
+.form-group{
+    margin-top: 3%;  
+  }
+  label{
+    
+  }
+  .form-container{
+    width: 40vw;
+    margin-top: 10vh;
+  }
+
+
+
+    /* MEDIA QUERY */
+    @media only screen and (max-width: 1050px) {
+        .form-container{
+            min-width: 50vw;
+        }
+      }
+
+    @media only screen and (max-width: 800px) {
+        .form-container{
+            min-width: 70vw;
+        }
+      }
+
+    @media only screen and (max-width: 600px) {
+        .form-container{
+            min-width: 90vw;
+        }
+      }
+
+    @media only screen and (max-width: 400px) {
+        .form-container{
+            min-width: 90vw;
+        }
+      }
+
+    @media only screen and (max-width: 300px) {
+        .form-container{
+            min-width: 90vw;
+        }
+      }
